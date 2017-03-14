@@ -3,4 +3,6 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="marker_fill_color">#c2c2d6</color>
+    <color name="marker_stroke_color">#ccf5ff</color>
 </resources>

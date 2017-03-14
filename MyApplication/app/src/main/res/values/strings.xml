@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Maps-Advanced</string>
+    <string name="google_api_key">AIzaSyD9fO03Fz0uCKPMdbWBvviQAlgmhg9AhNg</string>
+    <string name="title_activity_maps">Map</string>
 </resources>
